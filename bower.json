@@ -1,0 +1,17 @@
+{
+  "name": "fancy-select",
+  "version": "1.0.0",
+  "authors": [
+    "Alexey Bondarenko <alexeybondarenko@me.com>"
+  ],
+  "main": "src/fancy-select.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
